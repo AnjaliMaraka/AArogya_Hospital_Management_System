@@ -1,1 +1,1 @@
-# AArogya_Hospital_Management_System
+# Aarogya_Hospital_Management_System
